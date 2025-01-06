@@ -1,0 +1,27 @@
+* [33m37e1ac5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Fixed hello_world.py output to match expected result
+*   [33m74c41e3[m Fix merge conflicts
+[32m|[m[33m\[m  
+[32m|[m * [33m380b3e6[m[33m ([m[1;31mintermediate-merge-conflict/master[m[33m)[m Add print in master
+* [33m|[m [33mcac4be9[m Fixed hello_world.py output to match expected result
+* [33m|[m   [33mbeab2b4[m Resolved merge conflict in hello_world.py
+[34m|[m[35m\[m [33m\[m  
+[34m|[m * [33m|[m [33md67b3c0[m[33m ([m[1;31mintermediate-normal-merge/feature/add-logging[m[33m, [m[1;32mfeature/add-logging[m[33m)[m Add logging
+* [35m|[m [33m|[m [33me6b5502[m Resolved merge conflicts in hello_world.py
+[36m|[m[35m\[m[35m|[m [33m|[m 
+[36m|[m * [33m|[m [33mb23547b[m[33m ([m[1;31mintermediate-normal-merge/master[m[33m)[m Create a second file
+* [1;31m|[m [33m|[m [33ma6ebe06[m[33m ([m[1;31morigin/release[m[33m)[m Added Hello from release in hello_world.py
+* [1;31m|[m [33m|[m [33ma50102d[m[33m ([m[1;31morigin/feature/create-awesome[m[33m)[m Added Hello from feature in hello_world.py
+* [1;31m|[m [33m|[m   [33m74028bf[m Merge remote-tracking branch 'upstream/master'
+[1;32m|[m[1;33m\[m [1;31m\[m [33m\[m  
+[1;32m|[m * [1;31m|[m [33m|[m [33m9bb7a50[m Initial commit
+[1;32m|[m  [1;31m/[m [33m/[m  
+* [1;31m/[m [33m/[m [33m854f0d3[m Initial commit
+ [1;31m/[m [33m/[m  
+[1;31m|[m [33m|[m * [33m4de21ca[m[33m ([m[1;31mintermediate-normal-merge/feature/create-awesome[m[33m)[m Add second print
+[1;31m|[m [33m|[m[1;31m/[m  
+[1;31m|[m[1;31m/[m[33m|[m   
+* [33m|[m [33maf0e42a[m Initial commit
+ [33m/[m  
+[33m|[m * [33m4b979ae[m[33m ([m[1;31mintermediate-merge-conflict/feature/modify-print[m[33m)[m Modify print
+[33m|[m[33m/[m  
+* [33m29aab29[m Initial commit
